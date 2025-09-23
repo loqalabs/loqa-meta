@@ -3,11 +3,11 @@
 This backlog tracks the committed work required to reach the MVP milestone (Phase 1 – Foundation).
 
 ## Workstream A: Core Runtime
-- [ ] Runtime bootstrap: service container, configuration loader, tracing wiring
-- [ ] Message bus integration (NATS) with subject catalog
-- [ ] Capability registry and node heartbeat protocol
-- [ ] Local event store (SQLite + LiteFS) proof of concept
-- [ ] Observability stack deployment scripts (Grafana, Tempo, Prometheus)
+- [ ] Runtime bootstrap: service container, configuration loader, tracing wiring ([loqa-core#4](https://github.com/ambiware-labs/loqa-core/issues/4))
+- [ ] Message bus integration (NATS) with subject catalog ([loqa-core#5](https://github.com/ambiware-labs/loqa-core/issues/5))
+- [ ] Capability registry and node heartbeat protocol ([loqa-core#6](https://github.com/ambiware-labs/loqa-core/issues/6))
+- [ ] Local event store (SQLite + LiteFS) proof of concept ([loqa-core#7](https://github.com/ambiware-labs/loqa-core/issues/7))
+- [ ] Observability stack deployment scripts (Grafana, Tempo, Prometheus) ([loqa-core#8](https://github.com/ambiware-labs/loqa-core/issues/8))
 
 ## Workstream B: Voice Pipeline
 - [ ] Integrate Whisper/faster-whisper wrapper with streaming API
