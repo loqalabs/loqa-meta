@@ -1,0 +1,46 @@
+# Loqa Meta
+
+Governance, RFCs, and organizational documentation for the Loqa project.
+
+## Overview
+
+This repository contains:
+
+- **Governance**: Project governance model and decision-making processes
+- **RFCs**: Request for Comments on major architectural and feature decisions
+- **Roadmap**: Project vision and development timeline
+- **Community**: Guidelines for community participation and contribution
+- **Brand**: Loqa and Ambiware Labs brand guidelines and assets
+
+## Repository Structure
+
+```
+/governance   - Governance model and policies
+/rfcs         - Request for Comments documents
+/roadmap      - Project roadmap and milestones
+/community    - Community resources and guidelines
+/brand        - Brand assets and guidelines
+```
+
+## The Ambiware Labs ↔ Loqa Relationship
+
+Ambiware Labs is the organizational home for Loqa development. While Loqa remains an open-source project with community involvement, Ambiware Labs provides:
+
+- Core development resources
+- Project stewardship and direction
+- Commercial support and enterprise features
+- Long-term sustainability
+
+## Contributing
+
+This repository welcomes contributions to improve project governance, propose RFCs, and enhance community resources. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+## License
+
+Documentation in this repository is licensed under the MIT License.
+
+## Contact
+
+- Website: [ambiware.ai](https://ambiware.ai)
+- Email: hello@ambiware.ai
+- GitHub: [@ambiware-labs](https://github.com/ambiware-labs)
