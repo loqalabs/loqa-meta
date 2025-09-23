@@ -1,8 +1,13 @@
-# Loqa - Platform Architecture (Merged v2)
+# RFC-0002: Loqa Platform Architecture (Merged v2)
 
-**Status:** Draft v2 (iterated on merged Claude + Codex proposals)  
-**Author:** Anna Barnes & collaborators  
-**Last updated:** 2025-09-23  
+- **Status:** Draft
+- **Authors:** Anna Barnes & collaborators
+- **Created:** 2025-09-23
+- **Target Release:** Foundation (MVP)
+- **Discussion:** Pending formal RFC issue
+
+---
+
 **Scope:** Platform architecture for a local-first, open-core, multimodal ambient intelligence platform. Voice is the first interface; the system is modality-flexible and cluster-ready.
 
 ---
