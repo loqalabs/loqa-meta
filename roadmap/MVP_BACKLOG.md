@@ -9,12 +9,12 @@ This backlog tracks the committed work required to reach the MVP milestone (Phas
 - [x] Local event store (SQLite + LiteFS) proof of concept ([loqa-core#7](https://github.com/ambiware-labs/loqa-core/issues/7))
 - [x] Observability stack deployment scripts (Grafana, Tempo, Prometheus) ([loqa-core#8](https://github.com/ambiware-labs/loqa-core/issues/8))
 
-## Workstream B: Voice Pipeline
-- [ ] Integrate Whisper/faster-whisper wrapper with streaming API ([loqa-core#15](https://github.com/ambiware-labs/loqa-core/issues/15))
-- [ ] LLM inference harness using llama.cpp/Ollama (quantized 3B + 7B) ([loqa-core#16](https://github.com/ambiware-labs/loqa-core/issues/16))
-- [ ] TTS adapter for Kokoro with streaming playback ([loqa-core#17](https://github.com/ambiware-labs/loqa-core/issues/17))
-- [ ] Session router orchestrating STT → LLM → TTS chain with per-hop QoS settings ([loqa-core#18](https://github.com/ambiware-labs/loqa-core/issues/18))
-- [ ] Latency instrumentation surfacing `loqa.voice_latency_ms` ([loqa-core#19](https://github.com/ambiware-labs/loqa-core/issues/19))
+## Workstream B: Voice Pipeline ✅
+- [x] Integrate Whisper/faster-whisper wrapper with streaming API ([loqa-core#15](https://github.com/ambiware-labs/loqa-core/issues/15))
+- [x] LLM inference harness using llama.cpp/Ollama (quantized 3B + 7B) ([loqa-core#16](https://github.com/ambiware-labs/loqa-core/issues/16))
+- [x] TTS adapter for Kokoro with streaming playback ([loqa-core#17](https://github.com/ambiware-labs/loqa-core/issues/17))
+- [x] Session router orchestrating STT → LLM → TTS chain with per-hop QoS settings ([loqa-core#18](https://github.com/ambiware-labs/loqa-core/issues/18))
+- [x] Latency instrumentation surfacing `loqa.voice_latency_ms` ([loqa-core#19](https://github.com/ambiware-labs/loqa-core/issues/19))
 
 ## Workstream C: Skills & Plugins
 - [ ] Define `skill.yaml` schema and validation
