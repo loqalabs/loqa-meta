@@ -36,6 +36,12 @@ Feature requests are welcome! Please provide:
 5. Update documentation as needed
 6. Submit a pull request with a clear description of changes
 
+The documentation CI checks Markdown formatting using `markdownlint-cli2`. You can run the full lint locally with:
+
+```
+make lint
+```
+
 ## Coding Standards
 
 - Follow existing code style and patterns
