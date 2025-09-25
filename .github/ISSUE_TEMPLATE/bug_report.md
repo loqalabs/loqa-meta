@@ -16,9 +16,9 @@ Concise description of the bug.
 - Additional context:
 
 ## Steps to Reproduce
-1. 
-2. 
-3. 
+1.
+2.
+3.
 
 ## Expected Result
 What should have happened?

@@ -7,12 +7,17 @@ on:
     branches: ["main"]
 
 jobs:
-  placeholder:
+  docs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      - name: CI placeholder
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Lint markdown content
         run: |
-          echo "CI pipeline scaffolding in place."
-          echo "Replace this step with repo-specific tasks as the content evolves."
+          npx --yes markdownlint-cli2 "**/*.md"
