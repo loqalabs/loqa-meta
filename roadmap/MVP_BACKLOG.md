@@ -16,12 +16,14 @@ This backlog tracks the committed work required to reach the MVP milestone (Phas
 - [x] Session router orchestrating STT → LLM → TTS chain with per-hop QoS settings ([loqa-core#18](https://github.com/ambiware-labs/loqa-core/issues/18))
 - [x] Latency instrumentation surfacing `loqa.voice_latency_ms` ([loqa-core#19](https://github.com/ambiware-labs/loqa-core/issues/19))
 
-## Workstream C: Skills & Plugins
-- [ ] Define `skill.yaml` schema and validation
-- [ ] WASM host runtime skeleton (Extism/wasmtime integration)
-- [ ] Reference timer skill (WASM) and smart-home bridge (native)
-- [ ] Audit log format and storage for skill invocations
-- [ ] Capability-based permission model for host calls
+## Workstream C: Skills & Plugins ✅
+- [x] Define `skill.yaml` schema and validation
+- [x] WASM host runtime skeleton (wazero-based)
+- [x] Reference timer skill (WASM) and smart-home bridge (native)
+- [x] Wire skills runtime to publish/subscribe via NATS using reference manifests
+- [x] Audit log format and storage for skill invocations
+- [x] Capability-based permission model for host calls
+- [x] Authoring guide for third-party skills (build, package, permissions)
 
 ## Workstream D: Governance & Community
 - [ ] Publish contribution guide and code of conduct (complete ✅)
@@ -29,6 +31,7 @@ This backlog tracks the committed work required to reach the MVP milestone (Phas
 - [ ] Stand up Discussions categories (announcements, ideas, support)
 - [ ] Draft security disclosure policy
 - [ ] Announce Ambiware Labs + Loqa relationship blog post
+- [ ] Document local developer setup for skills (TinyGo 0.39+, required tools)
 
 ## Workstream E: Release Readiness
 - [ ] CI pipelines with lint, format, unit tests
