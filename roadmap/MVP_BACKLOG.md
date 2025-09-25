@@ -25,13 +25,13 @@ This backlog tracks the committed work required to reach the MVP milestone (Phas
 - [x] Capability-based permission model for host calls
 - [x] Authoring guide for third-party skills (build, package, permissions)
 
-## Workstream D: Governance & Community
-- [ ] Publish contribution guide and code of conduct (complete ✅)
-- [ ] Launch RFC process and template (complete ✅)
-- [ ] Stand up Discussions categories (announcements, ideas, support)
-- [ ] Draft security disclosure policy
-- [ ] Announce Ambiware Labs + Loqa relationship blog post
-- [ ] Document local developer setup for skills (TinyGo 0.39+, required tools)
+## Workstream D: Governance & Community ✅
+- [x] Publish contribution guide and code of conduct
+- [x] Launch RFC process and template
+- [x] Stand up Discussions categories (announcements, ideas, support)
+- [x] Draft security disclosure policy
+- [x] Announce Ambiware Labs + Loqa relationship blog post
+- [x] Document local developer setup for skills (TinyGo 0.39+, required tools)
 
 ## Workstream E: Release Readiness
 - [ ] CI pipelines with lint, format, unit tests
