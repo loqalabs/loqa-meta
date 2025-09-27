@@ -10,32 +10,39 @@ Issue reference: [loqa-meta#14](https://github.com/ambiware-labs/loqa-meta/issue
 ## Target Topology
 ```mermaid
 flowchart LR
-    subgraph Core Node (N1)
-        Runtime[loqad runtime]
-        Skills[WASM skills host]
-        Observability[Tracing/metrics exporters]
+    subgraph Core_Node_N1["Core Node (N1)"]
+        Runtime["loqad runtime"]
+        Skills["WASM skills host"]
+        Observability["Tracing/metrics exporters"]
     end
 
-    subgraph Edge Node (N2)
-        STT[Streaming STT service]
-        TTS[TTS playback queue]
-        LLM[LLM inference adapter]
+    subgraph Edge_Node_N2["Edge Node (N2)"]
+        STT["Streaming STT service"]
+        TTS["TTS playback queue"]
+        LLM["LLM inference adapter"]
     end
 
-    Runtime <--> NATS[(NATS JetStream)]
+    Runtime <--> NATS[("NATS JetStream")]
     Skills <--> NATS
     STT <--> NATS
     TTS <--> NATS
     LLM <--> NATS
 
-    subgraph Shared Services
-        Storage[(LiteFS / SQLite events)]
-        Monitoring[(Grafana + Prometheus + Tempo + Loki)]
+    subgraph Shared_Services["Shared Services"]
+        Storage[("LiteFS / SQLite events")]
+        Monitoring[("Grafana + Prometheus + Tempo + Loki")]
     end
 
     Runtime --> Storage
     Observability --> Monitoring
-    Edge Node --> Monitoring
+    Edge_Node_N2 --> Monitoring
+
+    classDef service fill:#1b2335,stroke:#4b5fff,color:#fff;
+    class Runtime,Skills,Observability,STT,TTS,LLM service;
+    classDef bus fill:#101522,stroke:#7bc4ff,color:#fff;
+    class NATS bus;
+    classDef shared fill:#0e141f,stroke:#2c3a4f,color:#fff;
+    class Storage,Monitoring shared;
 ```
 
 - **Node 1 (Core):** macOS/mac mini class machine running `loqad`, skills host, event store, and observability stack via Docker Compose.
