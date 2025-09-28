@@ -129,6 +129,7 @@ Major features go through the RFC process. Current RFCs:
 - Enterprise management
 - Priority support
 - Custom model training
+- See [Workstream F value-add roadmap](workstream-f/value_add_roadmap.md) for the detailed plan.
 
 ## Get Involved
 
