@@ -4,6 +4,12 @@
 
 Loqa is an open-source project developed under the stewardship of Ambiware Labs. This document outlines the governance model and decision-making processes for the project.
 
+### Related Documents
+
+- [Licensing philosophy](licensing.md)
+- [Privacy & data principles](privacy.md)
+- [Project board guide](PROJECT_BOARD.md)
+
 ## Project Roles
 
 ### Maintainers
