@@ -1,5 +1,7 @@
 # Community Resources
 
+- [Contributing Guide](contributing-guide.md)
+
 This directory will house guidelines, onboarding materials, and communication templates to support contributors and maintainers.
 
 ## Extension Labs
