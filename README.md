@@ -11,6 +11,7 @@ This repository contains:
 - **Roadmap**: Project vision and development timeline
 - **Community**: Guidelines for community participation and contribution
 - **Brand**: Loqa and Ambiware Labs brand guidelines and assets
+- **Studio**: Marketplace guidelines and Loqa Studio documentation
 - **Issue Templates**: Shared templates for RFCs, features, and bugs (`.github/ISSUE_TEMPLATE`)
 
 ## Repository Structure
@@ -21,6 +22,7 @@ This repository contains:
 /roadmap      - Roadmap overview and MVP backlog
 /community    - Community resources and guidelines
 /brand        - Brand assets and guidelines
+/studio       - Loqa Studio & marketplace guidelines
 /.github      - Shared issue templates and workflow config
 ```
 
