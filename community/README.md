@@ -6,6 +6,10 @@ This directory will house guidelines, onboarding materials, and communication te
 
 Looking to build or share a skill? Visit [Extension Labs](extension-labs/README.md) for templates, best practices, and the community showcase.
 
+## Partner Outreach
+
+We’re building relationships with privacy-first and hardware-focused partners. See the [Partner Outreach Pipeline](outreach/partner_pipeline.md) for targets, messaging templates, and success metrics.
+
 ## GitHub Discussions
 
 Discussions are enabled on both [`loqa-core`](https://github.com/ambiware-labs/loqa-core/discussions) and [`loqa-meta`](https://github.com/ambiware-labs/loqa-meta/discussions). Use the following categories when starting new threads:
