@@ -1,0 +1,19 @@
+metadata:
+  name: my-skill
+  version: 0.1.0
+  description: Replace with your skill description.
+  author: Your Name
+runtime:
+  mode: wasm
+  module: build/my-skill.wasm
+  entrypoint: run
+  host_version: v1
+capabilities:
+  bus:
+    subscribe:
+      - skill.example.request
+    publish:
+      - skill.example.response
+permissions:
+  - bus:publish
+  - bus:subscribe

@@ -1,0 +1,17 @@
+metadata:
+  name: my-exec-skill
+  version: 0.1.0
+  description: Replace with your exec skill description.
+  author: Your Name
+runtime:
+  mode: exec
+  command: scripts/handler.sh
+capabilities:
+  bus:
+    subscribe:
+      - skill.exec.request
+    publish:
+      - skill.exec.response
+permissions:
+  - bus:publish
+  - bus:subscribe

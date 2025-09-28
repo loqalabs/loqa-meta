@@ -2,6 +2,10 @@
 
 This directory will house guidelines, onboarding materials, and communication templates to support contributors and maintainers.
 
+## Extension Labs
+
+Looking to build or share a skill? Visit [Extension Labs](extension-labs/README.md) for templates, best practices, and the community showcase.
+
 ## GitHub Discussions
 
 Discussions are enabled on both [`loqa-core`](https://github.com/ambiware-labs/loqa-core/discussions) and [`loqa-meta`](https://github.com/ambiware-labs/loqa-meta/discussions). Use the following categories when starting new threads:
