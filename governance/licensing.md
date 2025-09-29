@@ -1,6 +1,6 @@
 # Licensing Philosophy
 
-Loqa embraces a hybrid open-core model: the runtime and developer tooling remain permissively licensed, while optional value-add offerings fund ongoing development.
+Loqa embraces a **Composable Open Core** model: the runtime and developer tooling remain permissively licensed, while optional value-add offerings fund ongoing development without compromising user agency.
 
 ## Core: MIT Licensed Forever
 
@@ -20,7 +20,7 @@ Loqa Studio delivers services that never compromise user control:
 | Managed updates & support | Subscription | Signed releases, SLAs, enterprise onboarding. |
 | Pre-flashed hardware kits | Commercial | Convenience hardware with Loqa pre-configured.
 
-These offerings live outside the MIT-licensed core and never disable OSS deployments.
+These offerings live outside the MIT-licensed core and never disable OSS deployments—our promise of **Ethical Open Core**.
 
 ## Contribution Assurance
 

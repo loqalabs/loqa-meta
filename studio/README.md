@@ -1,6 +1,6 @@
 # Loqa Studio & Marketplace Guidelines
 
-This document complements [RFC-0003](../rfcs/RFC-0003_loqa_marketplace_mvp.md) by describing how creators can publish add-ons through Loqa Studio, and how Ambiware Labs vets submissions to keep the ecosystem safe and delightful.
+This document complements [RFC-0003](../rfcs/RFC-0003_loqa_marketplace_mvp.md) and the **Composable Open Core** strategy by describing how creators can publish add-ons through Loqa Studio, and how Ambiware Labs vets submissions to keep the ecosystem safe and delightful.
 
 ## What You Can Publish
 
