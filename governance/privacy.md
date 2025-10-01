@@ -23,7 +23,7 @@ Loqa is built for local-first, privacy-preserving ambient intelligence. These pr
 
 ## User Agency & Transparency
 - Configuration changes, permissions, and updates are auditable.
-- Skills must declare subjects, permissions, and external calls in their manifest (see [`docs/skills/SPEC.md`](https://github.com/ambiware-labs/loqa-core/blob/main/docs/skills/SPEC.md)).
+- Skills must declare subjects, permissions, and external calls in their manifest (see [`docs/skills/SPEC.md`](https://github.com/loqalabs/loqa-core/blob/main/docs/skills/SPEC.md)).
 - Marketplace submissions undergo safety review to ensure they honour these principles.
 
 ## Incident Response

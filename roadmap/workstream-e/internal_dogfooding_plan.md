@@ -1,6 +1,6 @@
 # Workstream E – Internal Dogfooding Cluster Plan
 
-Issue reference: [loqa-meta#14](https://github.com/ambiware-labs/loqa-meta/issues/14)
+Issue reference: [loqa-meta#14](https://github.com/loqalabs/loqa-meta/issues/14)
 
 ## Objectives
 - Exercise nightly builds in a realistic, always-on environment prior to external releases.

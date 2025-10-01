@@ -1,6 +1,6 @@
 # Partner Outreach Pipeline
 
-Issue reference: [loqa-meta#29](https://github.com/ambiware-labs/loqa-meta/issues/29)
+Issue reference: [loqa-meta#29](https://github.com/loqalabs/loqa-meta/issues/29)
 
 ## Objectives
 - Engage hardware vendors, privacy communities, and integrators aligned with Loqa’s values.

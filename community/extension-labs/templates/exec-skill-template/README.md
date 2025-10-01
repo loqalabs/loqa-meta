@@ -10,7 +10,7 @@ Template for skills that call an external executable or script instead of WASM m
 ## Usage
 
 ```bash
-git clone https://github.com/ambiware-labs/loqa-core.git skills-lab
+git clone https://github.com/loqalabs/loqa-core.git skills-lab
 cd skills-lab/community/extension-labs/templates/exec-skill-template
 make package
 make validate

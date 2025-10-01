@@ -14,7 +14,7 @@ We’re building relationships with privacy-first and hardware-focused partners.
 
 ## GitHub Discussions
 
-Discussions are enabled on both [`loqa-core`](https://github.com/ambiware-labs/loqa-core/discussions) and [`loqa-meta`](https://github.com/ambiware-labs/loqa-meta/discussions). Use the following categories when starting new threads:
+Discussions are enabled on both [`loqa-core`](https://github.com/loqalabs/loqa-core/discussions) and [`loqa-meta`](https://github.com/loqalabs/loqa-meta/discussions). Use the following categories when starting new threads:
 
 - **Announcements** – Core team updates, release notes, roadmap milestones.
 - **Ideas** – Feature proposals, architectural suggestions, and workflow improvements.

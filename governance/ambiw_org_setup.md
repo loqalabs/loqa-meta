@@ -1,7 +1,7 @@
 # Ambiware Labs Setup Notes
 
 ## Organization
-- **GitHub handle:** `ambiware-labs`
+- **GitHub handle:** `loqalabs`
 - **Display name:** Ambiware Labs
 - **Description:** "Building Loqa: a local-first, open-core ambient intelligence platform."
 - **Website:** https://ambiware.ai
@@ -17,7 +17,7 @@
   - `185.199.109.153`
   - `185.199.110.153`
   - `185.199.111.153`
-- Add `CNAME www → ambiware-labs.github.io`.
+- Add `CNAME www → loqalabs.github.io`.
 - In the Pages repo: add a `CNAME` file with `ambiware.ai`, set the custom domain in GitHub Pages, and enable HTTPS once available.
 
 ### Email (iCloud Custom Domain)

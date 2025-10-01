@@ -1,6 +1,6 @@
 # Workstream F – Value-Add Offerings Roadmap
 
-Issue reference: [loqa-meta#28](https://github.com/ambiware-labs/loqa-meta/issues/28)
+Issue reference: [loqa-meta#28](https://github.com/loqalabs/loqa-meta/issues/28)
 
 ## Objectives
 - Generate sustainable revenue without compromising Loqa’s local-first, open-core promise.
@@ -33,7 +33,7 @@ Issue reference: [loqa-meta#28](https://github.com/ambiware-labs/loqa-meta/issue
 
 4. **Hardware Starter Kits**
    - Pre-imaged Mac mini / Pi kits with skills installed, nice enclosure.
-   - Partnerships with hardware vendors (see [loqa-meta#29](https://github.com/ambiware-labs/loqa-meta/issues/29)).
+   - Partnerships with hardware vendors (see [loqa-meta#29](https://github.com/loqalabs/loqa-meta/issues/29)).
 
 ## Experiments & Validation
 | Experiment | Metric | Status |

@@ -50,5 +50,5 @@ Documentation in this repository is licensed under the MIT License.
 
 - Website: [ambiware.ai](https://ambiware.ai)
 - Email: hello@ambiware.ai
-- GitHub: [@ambiware-labs](https://github.com/ambiware-labs)
+- GitHub: [@loqalabs](https://github.com/loqalabs)
 - Security disclosures: See [SECURITY.md](SECURITY.md)

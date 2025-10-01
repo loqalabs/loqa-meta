@@ -14,24 +14,24 @@ Our goals:
 1. **Fork or template a starter project**
    - [TinyGo WASM template](templates/tinygo-skill-template/README.md)
    - [Exec adapter template](templates/exec-skill-template/README.md)
-2. **Develop locally** using the guidance in [`skills/AUTHORING_GUIDE.md`](https://github.com/ambiware-labs/loqa-core/blob/main/skills/AUTHORING_GUIDE.md) and the formal [`skills spec`](https://github.com/ambiware-labs/loqa-core/blob/main/docs/skills/SPEC.md).
+2. **Develop locally** using the guidance in [`skills/AUTHORING_GUIDE.md`](https://github.com/loqalabs/loqa-core/blob/main/skills/AUTHORING_GUIDE.md) and the formal [`skills spec`](https://github.com/loqalabs/loqa-core/blob/main/docs/skills/SPEC.md).
 3. **Validate your manifest**
    ```bash
    go run ./cmd/loqa-skill validate --file skill.yaml
    ```
 4. **Share your work**
-   - Open a “Show and Tell” thread in [GitHub Discussions](https://github.com/ambiware-labs/loqa-core/discussions).
+   - Open a “Show and Tell” thread in [GitHub Discussions](https://github.com/loqalabs/loqa-core/discussions).
    - Submit a PR to add your template/link to this directory.
-   - Prepare for the marketplace by tracking [RFC-0003](https://github.com/ambiware-labs/loqa-meta/blob/main/rfcs/RFC-0003_loqa_marketplace_mvp.md).
+   - Prepare for the marketplace by tracking [RFC-0003](https://github.com/loqalabs/loqa-meta/blob/main/rfcs/RFC-0003_loqa_marketplace_mvp.md).
 
 ## Contributor Showcase
 
 | Skill | Maintainer | Description | Tags |
 | --- | --- | --- | --- |
-| [timer](https://github.com/ambiware-labs/loqa-core/tree/main/skills/examples/timer) | Ambiware Labs | Simple countdown timer that announces completions. | timers, voice |
-| [smart-home-bridge](https://github.com/ambiware-labs/loqa-core/tree/main/skills/examples/smart-home) | Ambiware Labs | Bridges Loqa intents to Home Assistant. | home-automation, voice |
+| [timer](https://github.com/loqalabs/loqa-core/tree/main/skills/examples/timer) | Ambiware Labs | Simple countdown timer that announces completions. | timers, voice |
+| [smart-home-bridge](https://github.com/loqalabs/loqa-core/tree/main/skills/examples/smart-home) | Ambiware Labs | Bridges Loqa intents to Home Assistant. | home-automation, voice |
 
-> Have a skill to feature? [Open an issue](https://github.com/ambiware-labs/loqa-meta/issues/new?labels=community&title=Showcase%20submission%3A%20%3Cskill%3E) with links and tags.
+> Have a skill to feature? [Open an issue](https://github.com/loqalabs/loqa-meta/issues/new?labels=community&title=Showcase%20submission%3A%20%3Cskill%3E) with links and tags.
 
 ## Templates
 
@@ -51,7 +51,7 @@ Contribute improvements as you discover best practices.
 
 ## Roadmap
 
-- Track open tasks in [loqa-meta#27](https://github.com/ambiware-labs/loqa-meta/issues/27).
+- Track open tasks in [loqa-meta#27](https://github.com/loqalabs/loqa-meta/issues/27).
 - Marketplace submission guide will land after RFC-0003 is accepted.
 - Looking for collaborators? Drop an idea in the Discussions “Ideas” category.
 

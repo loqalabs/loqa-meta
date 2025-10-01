@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"syscall"
 
-	"github.com/ambiware-labs/loqa-core/skills/examples/internal/host"
+	"github.com/loqalabs/loqa-core/skills/examples/internal/host"
 )
 
 type request struct {
