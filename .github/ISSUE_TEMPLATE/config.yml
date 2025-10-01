@@ -4,5 +4,5 @@ contact_links:
     url: mailto:security@ambiware.ai
     about: Please report security issues privately.
   - name: Community Discussions
-    url: https://github.com/ambiware-labs/loqa-meta/discussions
+    url: https://github.com/loqalabs/loqa-meta/discussions
     about: Use discussions for questions and open-ended ideas.

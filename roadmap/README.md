@@ -133,9 +133,9 @@ Major features go through the RFC process. Current RFCs:
 
 ## Get Involved
 
-- Star the [repository](https://github.com/ambiware-labs/loqa-core)
-- Join [discussions](https://github.com/ambiware-labs/loqa-meta/discussions)
-- Follow [@ambiware-labs](https://github.com/ambiware-labs)
+- Star the [repository](https://github.com/loqalabs/loqa-core)
+- Join [discussions](https://github.com/loqalabs/loqa-meta/discussions)
+- Follow [@loqalabs](https://github.com/loqalabs)
 - Email: hello@ambiware.ai
 
 ---

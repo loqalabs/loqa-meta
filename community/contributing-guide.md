@@ -9,14 +9,14 @@ Welcome! This guide highlights easy ways to get involved, how to find beginner-f
 - Tackle issues labeled `good first issue` or `help wanted` across repositories.
 
 Browse open issues:
-- [`loqa-core` issues](https://github.com/ambiware-labs/loqa-core/issues)
-- [`loqa-site` issues](https://github.com/ambiware-labs/loqa-site/issues)
-- [`loqa-meta` issues](https://github.com/ambiware-labs/loqa-meta/issues)
+- [`loqa-core` issues](https://github.com/loqalabs/loqa-core/issues)
+- [`loqa-site` issues](https://github.com/loqalabs/loqa-site/issues)
+- [`loqa-meta` issues](https://github.com/loqalabs/loqa-meta/issues)
 
 ## Submitting a Skill or Persona
-1. Follow the [Extension Labs templates](extension-labs/README.md) and the [skills spec](https://github.com/ambiware-labs/loqa-core/blob/main/docs/skills/SPEC.md).
+1. Follow the [Extension Labs templates](extension-labs/README.md) and the [skills spec](https://github.com/loqalabs/loqa-core/blob/main/docs/skills/SPEC.md).
 2. Validate your manifest: `go run ./cmd/loqa-skill validate --file skill.yaml`.
-3. Share your work in [Loqa Discussions](https://github.com/ambiware-labs/loqa-core/discussions) under “Show and Tell”.
+3. Share your work in [Loqa Discussions](https://github.com/loqalabs/loqa-core/discussions) under “Show and Tell”.
 4. (Optional) Prepare metadata for the upcoming marketplace (see [studio/README.md](../studio/README.md)).
 
 ## Proposing an RFC
@@ -37,7 +37,7 @@ Browse open issues:
 - [Partner outreach pipeline](../community/outreach/partner_pipeline.md)
 
 ## Questions?
-- Join [GitHub Discussions](https://github.com/ambiware-labs/loqa-meta/discussions).
-- Ping `@ambiware-labs` or email [hello@ambiware.ai](mailto:hello@ambiware.ai).
+- Join [GitHub Discussions](https://github.com/loqalabs/loqa-meta/discussions).
+- Ping `@loqalabs` or email [hello@ambiware.ai](mailto:hello@ambiware.ai).
 
 Thanks for helping shape Loqa—every contribution keeps privacy-focused ambient intelligence in the hands of the community.

@@ -9,7 +9,7 @@ Loqa Studio accepts extensions that respect Loqa’s local-first principles:
 | Category | Examples | Notes |
 | --- | --- | --- |
 | Persona Packs | Custom assistant personalities, domain-specific prompts, voice tuning bundles | Must declare data sources and safety constraints. |
-| Premium Skills / Add-ons | Advanced automations, integrations, analytics dashboards | Built against the [skills spec](https://github.com/ambiware-labs/loqa-core/blob/main/docs/skills/SPEC.md); may target WASM or exec runtimes. |
+| Premium Skills / Add-ons | Advanced automations, integrations, analytics dashboards | Built against the [skills spec](https://github.com/loqalabs/loqa-core/blob/main/docs/skills/SPEC.md); may target WASM or exec runtimes. |
 | Loqa Cloud Integrations | Optional encrypted sync, shared memory spaces, multi-device orchestration | Must use end-to-end encryption and pass security review. |
 | Training & Courses | Workshops, onboarding curricula, certification tracks | Provide syllabus outline and delivery format. |
 | Pre-flashed Hardware Kits | Partner-built kits ready to plug into Loqa | Coordinate with Ambiware hardware program (see Workstream F roadmap).

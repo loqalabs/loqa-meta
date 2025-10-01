@@ -4,10 +4,10 @@
 
 This policy applies to all Ambiware Labs open-source projects, including but not limited to:
 
-- [`loqa-core`](https://github.com/ambiware-labs/loqa-core)
-- [`loqa-meta`](https://github.com/ambiware-labs/loqa-meta)
-- [`loqa-skills`](https://github.com/ambiware-labs/loqa-skills)
-- [`loqa-site`](https://github.com/ambiware-labs/loqa-site)
+- [`loqa-core`](https://github.com/loqalabs/loqa-core)
+- [`loqa-meta`](https://github.com/loqalabs/loqa-meta)
+- [`loqa-skills`](https://github.com/loqalabs/loqa-skills)
+- [`loqa-site`](https://github.com/loqalabs/loqa-site)
 
 If you are unsure whether an asset is in scope, please contact us first—do not disclose details publicly.
 

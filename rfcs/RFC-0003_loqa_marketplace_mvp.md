@@ -4,7 +4,7 @@
 - **Authors:** Anna Barnes, Ambiware Labs Team
 - **Created:** 2025-09-28
 - **Target Release:** Workstream F – Ecosystem Foundations
-- **Discussion:** https://github.com/ambiware-labs/loqa-meta/issues/26
+- **Discussion:** https://github.com/loqalabs/loqa-meta/issues/26
 
 ## Summary
 Establish the first iteration of the Loqa Marketplace: a lightweight distribution channel for skills and adapters that complements the open-core runtime. The MVP will define the package format, metadata requirements, signing model, and the minimal services/CLI needed to discover, install, and update skills while preserving Loqa’s local-first ethos.
@@ -43,7 +43,7 @@ Future phases may introduce a dedicated API or UI, but the MVP relies on static 
     "skills": [
       {
         "name": "timer",
-        "package": "https://github.com/ambiware-labs/loqa-skills/releases/download/v0.1.0/timer-0.1.0.tar.gz",
+        "package": "https://github.com/loqalabs/loqa-skills/releases/download/v0.1.0/timer-0.1.0.tar.gz",
         "manifest": "sha256:...",
         "wasm": "sha256:...",
         "version": "0.1.0",
@@ -120,8 +120,8 @@ Future phases may introduce a dedicated API or UI, but the MVP relies on static 
    - Update authoring guide, site docs, and blog with marketplace instructions.
 
 ## References
-- [Issue #26: Draft marketplace RFC](https://github.com/ambiware-labs/loqa-meta/issues/26)
-- [docs/skills/SPEC.md](https://github.com/ambiware-labs/loqa-core/blob/main/docs/skills/SPEC.md)
-- [loqa-core#37](https://github.com/ambiware-labs/loqa-core/issues/37) – skills spec evolution
+- [Issue #26: Draft marketplace RFC](https://github.com/loqalabs/loqa-meta/issues/26)
+- [docs/skills/SPEC.md](https://github.com/loqalabs/loqa-core/blob/main/docs/skills/SPEC.md)
+- [loqa-core#37](https://github.com/loqalabs/loqa-core/issues/37) – skills spec evolution
 - [Crates.io index design](https://doc.rust-lang.org/cargo/reference/registry-index.html)
 - [VS Code extension marketplace format](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)

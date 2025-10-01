@@ -35,7 +35,7 @@ Columns are mapped to delivery states:
 - Generate progress reports from board data for monthly updates
 
 ## Links
-- GitHub Project: `https://github.com/orgs/ambiware-labs/projects/1` (create and update URL once live)
+- GitHub Project: `https://github.com/orgs/loqalabs/projects/1` (create and update URL once live)
 - MVP Backlog: [roadmap/MVP_BACKLOG.md](../roadmap/MVP_BACKLOG.md)
 - RFC Index: [rfcs/](../rfcs)
 

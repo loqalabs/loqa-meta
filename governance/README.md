@@ -109,6 +109,6 @@ This governance model will evolve as the project grows. Changes to governance re
 
 ## Contact
 
-- GitHub: [@ambiware-labs](https://github.com/ambiware-labs)
+- GitHub: [@loqalabs](https://github.com/loqalabs)
 - Email: hello@ambiware.ai
-- Discussions: [GitHub Discussions](https://github.com/ambiware-labs/loqa-meta/discussions)
+- Discussions: [GitHub Discussions](https://github.com/loqalabs/loqa-meta/discussions)
