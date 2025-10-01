@@ -10,7 +10,7 @@ Loqa aims to become the leading open-source platform for local-first ambient int
 **Status**: In Progress
 
 - [x] Project inception and architecture design
-- [x] Organization setup (Ambiware Labs)
+- [x] Organization setup (Loqa Labs)
 - [ ] Core runtime implementation
 - [ ] Basic STT → LLM → TTS pipeline
 - [ ] Initial clustering support

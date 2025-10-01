@@ -1,12 +1,12 @@
-# Ambiware Labs Setup Notes
+# Loqa Labs Setup Notes
 
 ## Organization
 - **GitHub handle:** `loqalabs`
-- **Display name:** Ambiware Labs
+- **Display name:** Loqa Labs
 - **Description:** "Building Loqa: a local-first, open-core ambient intelligence platform."
 - **Website:** https://ambiware.ai
 - **Contact email:** hello@ambiware.ai
-- **Brand pairing:** Loqa remains the flagship open-source project; Ambiware Labs is the parent org.
+- **Brand pairing:** Loqa remains the flagship open-source project; Loqa Labs is the parent org.
 
 ## DNS Configuration (Porkbun)
 
@@ -42,4 +42,4 @@
 1. Update org profile with avatar, bio, and website link.
 2. Scaffold repositories via `gh repo create ...` commands; seed each with README, LICENSE, CONTRIBUTING, CODE_OF_CONDUCT.
 3. Stand up initial GitHub Pages repo under `loqa-site` and connect to `ambiware.ai` once DNS propagates.
-4. Document governance and roadmap in `loqa-meta`, announcing the Ambiware Labs ↔ Loqa relationship.
+4. Document governance and roadmap in `loqa-meta`, announcing the Loqa Labs ↔ Loqa relationship.

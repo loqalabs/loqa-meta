@@ -1,7 +1,7 @@
 # Project Board Operating Guide
 
 ## Purpose
-The Ambiware Labs project board provides a single, cross-repo view of Loqa’s roadmap execution. It helps track progress toward the MVP and subsequent milestones while keeping community contributors aligned.
+The Loqa Labs project board provides a single, cross-repo view of Loqa’s roadmap execution. It helps track progress toward the MVP and subsequent milestones while keeping community contributors aligned.
 
 ## Board Structure
 Columns are mapped to delivery states:

@@ -10,7 +10,7 @@ This repository contains:
 - **RFCs**: Request for Comments on major architectural and feature decisions
 - **Roadmap**: Project vision and development timeline
 - **Community**: Guidelines for community participation and contribution
-- **Brand**: Loqa and Ambiware Labs brand guidelines and assets
+- **Brand**: Loqa and Loqa Labs brand guidelines and assets
 - **Studio**: Marketplace guidelines and Loqa Studio documentation
 - **Issue Templates**: Shared templates for RFCs, features, and bugs (`.github/ISSUE_TEMPLATE`)
 
@@ -26,9 +26,9 @@ This repository contains:
 /.github      - Shared issue templates and workflow config
 ```
 
-## The Ambiware Labs ↔ Loqa Relationship
+## The Loqa Labs ↔ Loqa Relationship
 
-Ambiware Labs is the organizational home for Loqa development. While Loqa remains an open-source project with community involvement, Ambiware Labs provides:
+Loqa Labs is the organizational home for Loqa development. While Loqa remains an open-source project with community involvement, Loqa Labs provides:
 
 - Core development resources
 - Project stewardship and direction

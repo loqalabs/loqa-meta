@@ -2,7 +2,7 @@
 
 ## Overview
 
-Loqa is an open-source project developed under the stewardship of Ambiware Labs. This document outlines the governance model and decision-making processes for the project.
+Loqa is an open-source project developed under the stewardship of Loqa Labs. This document outlines the governance model and decision-making processes for the project.
 
 ### Related Documents
 
@@ -23,7 +23,7 @@ Maintainers are responsible for the overall direction and health of the project.
 - Community guidelines
 
 Current maintainers:
-- Ambiware Labs Core Team
+- Loqa Labs Core Team
 
 ### Contributors
 
@@ -86,9 +86,9 @@ All participants must follow the [Code of Conduct](CODE_OF_CONDUCT.md). Violatio
 3. Temporary ban
 4. Permanent ban
 
-## Ambiware Labs Relationship
+## Loqa Labs Relationship
 
-Ambiware Labs:
+Loqa Labs:
 
 - Provides core development resources
 - Maintains project infrastructure

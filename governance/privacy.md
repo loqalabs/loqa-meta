@@ -14,7 +14,7 @@ Loqa is built for local-first, privacy-preserving ambient intelligence. These pr
 
 ## Optional Loqa Cloud (Encrypted)
 - Loqa Cloud provides convenience sync for those who opt in.
-- All data is end-to-end encrypted before it leaves the device; Ambiware Labs cannot read user content.
+- All data is end-to-end encrypted before it leaves the device; Loqa Labs cannot read user content.
 - Users can inspect, revoke, or self-host Loqa Cloud components as they become available.
 
 ## No Silent Calls Home
