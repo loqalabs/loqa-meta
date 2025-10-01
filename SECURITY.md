@@ -2,7 +2,7 @@
 
 ## Scope
 
-This policy applies to all Ambiware Labs open-source projects, including but not limited to:
+This policy applies to all Loqa Labs open-source projects, including but not limited to:
 
 - [`loqa-core`](https://github.com/loqalabs/loqa-core)
 - [`loqa-meta`](https://github.com/loqalabs/loqa-meta)
@@ -43,8 +43,8 @@ We support coordinated vulnerability disclosure. When you report a vulnerability
 The following are generally out of scope for this program:
 
 - Denial-of-service attacks (volumetric or resource exhaustion) that require excessive traffic
-- Vulnerabilities in third-party dependencies unless they directly affect Ambiware Labs code
-- Social engineering attacks or phishing against Ambiware Labs personnel
+- Vulnerabilities in third-party dependencies unless they directly affect Loqa Labs code
+- Social engineering attacks or phishing against Loqa Labs personnel
 - Physical attacks or non-technical testing
 
 ## Questions

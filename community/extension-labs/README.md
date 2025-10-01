@@ -28,8 +28,8 @@ Our goals:
 
 | Skill | Maintainer | Description | Tags |
 | --- | --- | --- | --- |
-| [timer](https://github.com/loqalabs/loqa-core/tree/main/skills/examples/timer) | Ambiware Labs | Simple countdown timer that announces completions. | timers, voice |
-| [smart-home-bridge](https://github.com/loqalabs/loqa-core/tree/main/skills/examples/smart-home) | Ambiware Labs | Bridges Loqa intents to Home Assistant. | home-automation, voice |
+| [timer](https://github.com/loqalabs/loqa-core/tree/main/skills/examples/timer) | Loqa Labs | Simple countdown timer that announces completions. | timers, voice |
+| [smart-home-bridge](https://github.com/loqalabs/loqa-core/tree/main/skills/examples/smart-home) | Loqa Labs | Bridges Loqa intents to Home Assistant. | home-automation, voice |
 
 > Have a skill to feature? [Open an issue](https://github.com/loqalabs/loqa-meta/issues/new?labels=community&title=Showcase%20submission%3A%20%3Cskill%3E) with links and tags.
 

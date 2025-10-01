@@ -1,6 +1,6 @@
 # Loqa Studio & Marketplace Guidelines
 
-This document complements [RFC-0003](../rfcs/RFC-0003_loqa_marketplace_mvp.md) and the **Composable Open Core** strategy by describing how creators can publish add-ons through Loqa Studio, and how Ambiware Labs vets submissions to keep the ecosystem safe and delightful.
+This document complements [RFC-0003](../rfcs/RFC-0003_loqa_marketplace_mvp.md) and the **Composable Open Core** strategy by describing how creators can publish add-ons through Loqa Studio, and how Loqa Labs vets submissions to keep the ecosystem safe and delightful.
 
 ## What You Can Publish
 
@@ -12,7 +12,7 @@ Loqa Studio accepts extensions that respect Loqa’s local-first principles:
 | Premium Skills / Add-ons | Advanced automations, integrations, analytics dashboards | Built against the [skills spec](https://github.com/loqalabs/loqa-core/blob/main/docs/skills/SPEC.md); may target WASM or exec runtimes. |
 | Loqa Cloud Integrations | Optional encrypted sync, shared memory spaces, multi-device orchestration | Must use end-to-end encryption and pass security review. |
 | Training & Courses | Workshops, onboarding curricula, certification tracks | Provide syllabus outline and delivery format. |
-| Pre-flashed Hardware Kits | Partner-built kits ready to plug into Loqa | Coordinate with Ambiware hardware program (see Workstream F roadmap).
+| Pre-flashed Hardware Kits | Partner-built kits ready to plug into Loqa | Coordinate with Loqa Labs hardware program (see Workstream F roadmap).
 
 Creators may also submit free/OSS extensions—the marketplace supports both commercial and community listings.
 
@@ -25,13 +25,13 @@ Creators may also submit free/OSS extensions—the marketplace supports both com
    - Submit metadata to the upcoming `loqa-marketplace` repository (see RFC-0003 for schema).
    - Clearly state pricing (if any), support contact, and dependencies.
 3. **Vetting & Safety Review**
-   - Ambiware Labs reviews for quality, security, and AI safety considerations (e.g., prompt injection handling, data provenance).
+   - Loqa Labs reviews for quality, security, and AI safety considerations (e.g., prompt injection handling, data provenance).
    - Automated checks validate manifests, signatures, and binary integrity.
 4. **Approval & Publishing**
    - Once approved, the catalog entry is published and becomes installable via `loqa-skill registry install <name>`.
    - Updates follow the same process; semantic versioning is required.
 
-> Until the community steering group is formed, Ambiware Labs’ core team makes final publication decisions. The process will transition to a shared governance model over time.
+> Until the community steering group is formed, Loqa Labs’ core team makes final publication decisions. The process will transition to a shared governance model over time.
 
 ## Licensing Flexibility
 

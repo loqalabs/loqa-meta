@@ -30,7 +30,7 @@ This backlog tracks the committed work required to reach the MVP milestone (Phas
 - [x] Launch RFC process and template
 - [x] Stand up Discussions categories (announcements, ideas, support)
 - [x] Draft security disclosure policy
-- [x] Announce Ambiware Labs + Loqa relationship blog post
+- [x] Announce Loqa Labs + Loqa relationship blog post
 - [x] Document local developer setup for skills (TinyGo 0.39+, required tools)
 
 ## Workstream E: Release Readiness

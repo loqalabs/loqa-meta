@@ -35,7 +35,7 @@ Issue reference: [loqa-meta#29](https://github.com/loqalabs/loqa-meta/issues/29)
 
   Hi <name>,
 
-  I’m Anna from Ambiware Labs—the team behind Loqa, a local-first, open-core ambient intelligence platform. We noticed your work on <product/community> and think there’s a natural fit. We’d love to explore how Loqa’s privacy-first assistant stack could complement what you’re building.
+  I’m Anna from Loqa Labs—the team behind Loqa, a local-first, open-core ambient intelligence platform. We noticed your work on <product/community> and think there’s a natural fit. We’d love to explore how Loqa’s privacy-first assistant stack could complement what you’re building.
 
   A few highlights:
   • MIT-licensed runtime + modular skills (like VS Code extensions)
@@ -46,7 +46,7 @@ Issue reference: [loqa-meta#29](https://github.com/loqalabs/loqa-meta/issues/29)
 
   Thanks,
   Anna
-  Ambiware Labs / hello@ambiware.ai
+  Loqa Labs / hello@ambiware.ai
   ```
 - **One-pager (TODO):** Summarize Loqa for quick partner onboarding.
 

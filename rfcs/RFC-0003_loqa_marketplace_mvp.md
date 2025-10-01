@@ -1,7 +1,7 @@
 # RFC-0003: Loqa Marketplace MVP
 
 - **Status:** Draft
-- **Authors:** Anna Barnes, Ambiware Labs Team
+- **Authors:** Anna Barnes, Loqa Labs Team
 - **Created:** 2025-09-28
 - **Target Release:** Workstream F – Ecosystem Foundations
 - **Discussion:** https://github.com/loqalabs/loqa-meta/issues/26
@@ -49,7 +49,7 @@ Future phases may introduce a dedicated API or UI, but the MVP relies on static 
         "version": "0.1.0",
         "targets": ["linux/amd64", "darwin/arm64"],
         "tags": ["timers", "voice"],
-        "author": "Ambiware Labs",
+        "author": "Loqa Labs",
         "description": "Simple countdown timer," 
         "license": "MIT",
         "signature": "sig:..."
@@ -72,7 +72,7 @@ Future phases may introduce a dedicated API or UI, but the MVP relies on static 
   - CLI accepts `--registry URL` or reads `skills.registry.url` from config.
 
 ### Data Model
-- `index.json` versioned and signed (CLI validates `sig` using Ambiware’s public key; future phases support publisher keys).
+- `index.json` versioned and signed (CLI validates `sig` using Loqa Labs’s public key; future phases support publisher keys).
 - Each skill package includes the canonical `skill.yaml`; versioning must match `metadata.version`.
 - Optional metadata for paid/premium flag reserved for future use.
 
@@ -114,7 +114,7 @@ Future phases may introduce a dedicated API or UI, but the MVP relies on static 
    - Extend `config/example.yaml` with `skills.registry` section.
    - Document installation flow in README and docs.
 4. **Security:**
-   - Generate Ambiware signing key pair; distribute public key with CLI.
+   - Generate Loqa Labs signing key pair; distribute public key with CLI.
    - Implement signature verification.
 5. **Docs & Comms:**
    - Update authoring guide, site docs, and blog with marketplace instructions.
