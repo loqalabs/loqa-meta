@@ -1,18 +1,33 @@
 # Loqa Meta
 
-Governance, RFCs, and organizational documentation for the Loqa project.
+Strategy documents, RFCs, and architecture decisions for the Loqa ecosystem.
 
-## Overview
+## Current Phase
 
-This repository contains:
+**Phase 1**: Meeting transcription (loqa-meetings)
+- Timeline: 10 weeks (Week 1 in progress)
+- Goal: AI-powered meeting transcription with Obsidian integration
+- Status: Active development
 
-- **Governance**: Project governance model and decision-making processes
-- **RFCs**: Request for Comments on major architectural and feature decisions
-- **Roadmap**: Project vision and development timeline
-- **Community**: Guidelines for community participation and contribution
-- **Brand**: Loqa and Loqa Labs brand guidelines and assets
-- **Studio**: Marketplace guidelines and Loqa Studio documentation
-- **Issue Templates**: Shared templates for RFCs, features, and bugs (`.github/ISSUE_TEMPLATE`)
+**Next Phases**:
+- Phase 2: Chat assistant (RAG over Obsidian)
+- Phase 3: Voice chat
+- Phase 4: Full voice assistant
+
+## What's Here
+
+- 📋 Vision & Roadmap
+- 🏗️ Architecture Decisions
+- 📝 RFCs (Request for Comments)
+- 📊 Strategy Sessions
+- 🎨 Brand Guidelines
+
+## Key Documents
+
+- Vision & Roadmap - Where we're going
+- Build for Anna First - Our approach
+- Meetings Architecture - Current focus (Phase 1)
+- Research Learnings - Industry analysis
 
 ## Repository Structure
 
@@ -26,21 +41,16 @@ This repository contains:
 /.github      - Shared issue templates and workflow config
 ```
 
-## The Loqa Labs ↔ Loqa Relationship
+## Related Projects
 
-Loqa Labs is the organizational home for Loqa development. While Loqa remains an open-source project with community involvement, Loqa Labs provides:
-
-- Core development resources
-- Project stewardship and direction
-- Commercial support and enterprise features
-- Long-term sustainability
+- **[loqa-meetings](https://github.com/loqalabs/loqa-meetings)** - Active development (Rust)
+- **[loqa-core](https://github.com/loqalabs/loqa-core)** - Stable foundation (Go)
 
 ## Contributing
 
-This repository welcomes contributions to improve project governance, propose RFCs, and enhance community resources. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+We're currently in MVP development (Phase 1). Contributions will open after the initial release.
 
-- New RFCs should start with [RFC_TEMPLATE.md](rfcs/RFC_TEMPLATE.md) and an [RFC issue](.github/ISSUE_TEMPLATE/rfc.md).
-- Review the [MVP backlog](roadmap/MVP_BACKLOG.md) before proposing new work to ensure alignment with current priorities.
+Interested in the vision? Star ⭐ [loqa-meetings](https://github.com/loqalabs/loqa-meetings) and watch for updates!
 
 ## License
 
